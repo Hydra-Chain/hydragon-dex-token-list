@@ -5,7 +5,7 @@
   "timestamp": "2021-05-24T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 8844,
+      "chainId": 88441,
       "address": "0x6689F67764fA3A98f53a9ef1D6f92f609FbdF32E",
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
@@ -13,7 +13,7 @@
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/devnet/assets/icons/0x6689F67764fA3A98f53a9ef1D6f92f609FbdF32E/logo.png"
     },
     {
-      "chainId": 8844,
+      "chainId": 88441,
       "address": "0x0000000000000000000000000000000000001013",
       "name": "Liquid Hydra",
       "symbol": "LYDRA",
@@ -21,7 +21,7 @@
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/devnet/assets/icons/0x0000000000000000000000000000000000001013/logo.png"
     },
     {
-      "chainId": 8844,
+      "chainId": 88441,
       "address": "0xfbBa4908b44163698CC6622034F98727C346B361",
       "name": "MyToken1",
       "symbol": "MT1",
@@ -29,7 +29,7 @@
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/devnet/assets/icons/0xfbBa4908b44163698CC6622034F98727C346B361/logo.png"
     },
     {
-      "chainId": 8844,
+      "chainId": 88441,
       "address": "0x7eb8Fde1EdaA37Dd5c1bC3A241F81773559C1c8a",
       "name": "MyToken2",
       "symbol": "MT2",
