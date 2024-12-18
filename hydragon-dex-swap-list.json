@@ -1,16 +1,16 @@
 {
   "name": "HydraGon Token List",
-  "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/testnet/assets/icons/hydra-logo.png",
+  "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/devnet/assets/icons/hydra-logo.png",
   "keywords": ["hydra", "hydragon", "tokens"],
   "timestamp": "2021-05-24T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 8844,
-      "address": "0xFF80Cac17793C199b5faF12aB6Eee16b126fF524",
+      "address": "0x6689F67764fA3A98f53a9ef1D6f92f609FbdF32E",
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/testnet/assets/icons/hydra-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/devnet/assets/icons/0x6689F67764fA3A98f53a9ef1D6f92f609FbdF32E/logo.png"
     },
     {
       "chainId": 8844,
@@ -18,31 +18,23 @@
       "name": "Liquid Hydra",
       "symbol": "LYDRA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/testnet/assets/icons/0x0000000000000000000000000000000000001013/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/devnet/assets/icons/0x0000000000000000000000000000000000001013/logo.png"
     },
     {
       "chainId": 8844,
-      "address": "0x8dE2f2Acd7AE92aA2d5F13C95424a1b4C31CBcB2",
+      "address": "0xfbBa4908b44163698CC6622034F98727C346B361",
       "name": "MyToken1",
       "symbol": "MT1",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/testnet/assets/icons/0x8dE2f2Acd7AE92aA2d5F13C95424a1b4C31CBcB2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/devnet/assets/icons/0xfbBa4908b44163698CC6622034F98727C346B361/logo.png"
     },
     {
       "chainId": 8844,
-      "address": "0xdd5C0811D1De34CC5B6A35Ae0A1A68EEfba2B4E2",
+      "address": "0x7eb8Fde1EdaA37Dd5c1bC3A241F81773559C1c8a",
       "name": "MyToken2",
       "symbol": "MT2",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/testnet/assets/icons/0xdd5C0811D1De34CC5B6A35Ae0A1A68EEfba2B4E2/logo.png"
-    },
-    {
-      "chainId": 8844,
-      "address": "0x970C75bb31f1C48B35267C2a7871DAC05992Cb32",
-      "name": "CryptoKiddie",
-      "symbol": "CK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/testnet/assets/icons/0xdd5C0811D1De34CC5B6A35Ae0A1A68EEfba2B4E2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/devnet/assets/icons/0x7eb8Fde1EdaA37Dd5c1bC3A241F81773559C1c8a/logo.png"
     }
   ],
   "version": {
