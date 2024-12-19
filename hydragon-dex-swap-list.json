@@ -10,7 +10,7 @@
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0xFF80Cac17793C199b5faF12aB6Eee16b126fF524/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x900E563a74BE93807E8A4A3B52D72A351baDd6bF/logo.png"
     },
     {
       "chainId": 4488,
@@ -18,7 +18,7 @@
       "name": "Liquid Hydra",
       "symbol": "LYDRA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/68a674e10694eeb00867d2e11c8b158b00b28e96/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x0000000000000000000000000000000000001013/logo.png"
     }
   ],
   "version": {
