@@ -19,11 +19,99 @@
       "symbol": "LYDRA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x0000000000000000000000000000000000001013/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0xD185683dfb59e26E269e00CE1DE75942c3d5fCD2",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0xD185683dfb59e26E269e00CE1DE75942c3d5fCD2/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0xDf382759Ea2393a26d2F71924A4f69962ff0C1c5",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0xDf382759Ea2393a26d2F71924A4f69962ff0C1c5/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0xb8043294eFf43bcD01BD33968c7ae9dbc6A4BF8B",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0xb8043294eFf43bcD01BD33968c7ae9dbc6A4BF8B/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0x6825dBE16fAc6cb2b793D21c4477ef916b15b370",
+      "name": "Evedo",
+      "symbol": "EVED",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x6825dBE16fAc6cb2b793D21c4477ef916b15b370/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0x8C3814babbc5DAdCcee2b1b448B7a037EC4fc6f2",
+      "name": "LockTrip",
+      "symbol": "LOC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x8C3814babbc5DAdCcee2b1b448B7a037EC4fc6f2/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0x18FFd46709F9EBc7c686FBdD8E2A7531Ce34869F",
+      "name": "Changex",
+      "symbol": "CHANGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x18FFd46709F9EBc7c686FBdD8E2A7531Ce34869F/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0x5f151a54959355A296f61Bc069553277aDE6616b",
+      "name": "GoMeat",
+      "symbol": "GOMT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x5f151a54959355A296f61Bc069553277aDE6616b/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0xbBf6f2d2D462185dF545c744974b7Eb6ddadFcfd",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0xbBf6f2d2D462185dF545c744974b7Eb6ddadFcfd/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0x7b29E92ba491CD0AAcb64A363af2AfC2931Fd9F4",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x7b29E92ba491CD0AAcb64A363af2AfC2931Fd9F4/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0x62A88dDBB6c26177A8E3FD910830e764fAf50fC5",
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x62A88dDBB6c26177A8E3FD910830e764fAf50fC5/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0xf05db44606e88f6724a4e10f4068855d7c441053",
+      "name": "MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0xf05db44606e88f6724a4e10f4068855d7c441053/logo.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 16,
-    "patch": 2
+    "minor": 17,
+    "patch": 0
   }
 }
