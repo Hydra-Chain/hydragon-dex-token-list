@@ -92,22 +92,6 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x7b29E92ba491CD0AAcb64A363af2AfC2931Fd9F4/logo.png"
     },
-    {
-      "chainId": 4488,
-      "address": "0x62A88dDBB6c26177A8E3FD910830e764fAf50fC5",
-      "name": "BNB",
-      "symbol": "BNB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x62A88dDBB6c26177A8E3FD910830e764fAf50fC5/logo.png"
-    },
-    {
-      "chainId": 4488,
-      "address": "0xf05db44606e88f6724a4e10f4068855d7c441053",
-      "name": "MATIC",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0xf05db44606e88f6724a4e10f4068855d7c441053/logo.png"
-    }
   ],
   "version": {
     "major": 2,
