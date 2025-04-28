@@ -22,6 +22,14 @@
     },
     {
       "chainId": 8844,
+      "address": "0xeae8aC8638597f9DD76a595A499b69a867153fED",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/testnet/assets/icons/0xeae8aC8638597f9DD76a595A499b69a867153fED/logo.png"
+    },
+    {
+      "chainId": 8844,
       "address": "0x8dE2f2Acd7AE92aA2d5F13C95424a1b4C31CBcB2",
       "name": "MyToken1",
       "symbol": "MT1",
@@ -47,7 +55,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 16,
-    "patch": 2
+    "minor": 17,
+    "patch": 0
   }
 }
