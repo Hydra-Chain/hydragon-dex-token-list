@@ -99,11 +99,19 @@
       "symbol": "hyUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0x71f16bCb805566F322a0904885D6147a76C249C5/logo.png"
+    },
+    {
+      "chainId": 4488,
+      "address": "0xa2f1C73FE7705c80f65D4db43529220d5B4fb154",
+      "name": "ANI",
+      "symbol": "ANI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydragon-dex-token-list/main/assets/icons/0xa2f1C73FE7705c80f65D4db43529220d5B4fb154/logo.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   }
 }
